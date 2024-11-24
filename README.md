@@ -1,1 +1,1 @@
-# llicl-data
+This repository hosts the datasets used in paper [Stress-testing Long-context Language Models with Lifelong ICL and Task Haystack](https://arxiv.org/abs/2407.16695). For further details, please refer to our [GitHub repository](https://github.com/INK-USC/Lifelong-ICL).
